@@ -7,7 +7,7 @@
 
 <ul style="padding-bottom: 10px;">
   <li>🔭 I’m currently working on <a href="https://github.com/vaanskii/AutoMarket">AutoMarket</a></li>
-  <li>🌱 I’m currently learning <strong>Swift</strong></li>
+  <li>🌱 I’m currently learning <strong>Postgresql</strong></li>
   <li>💬 Ask me about <strong>Vue.js, Python, Tailwindcss and other...</strong></li>
   <li>📫 How to reach me <a href="mailto:giorgivanadze03@gmail.com">giorgivanadze03@gmail.com</a></li>
 </ul>
