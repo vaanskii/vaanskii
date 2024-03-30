@@ -36,6 +36,6 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-<p align="left" style="padding-bottom: 10px;"><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaanskii&show_icons=true&locale=en&layout=compact" alt="vaanskii" /></p>
+<p align="left" style="padding-bottom: 10px;"><img align="left" height="172" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaanskii&show_icons=true&locale=en&layout=compact" alt="vaanskii" /></p>
 
-<p align="left" style="padding-bottom: 10px;"><img align="center" width="375" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=vaanskii&" alt="vaanskii" /></p>
+<p align="left" style="padding-bottom: 10px;"><img align="center" width="435" height="174" src="https://github-readme-streak-stats.herokuapp.com/?user=vaanskii&" alt="vaanskii" /></p>
