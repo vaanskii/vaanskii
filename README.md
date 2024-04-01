@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td>🔭</td>
-    <td>I’m currently working on <a href="https://github.com/vaanskii/Auto-market">AutoMarket</a></td>
+    <td>I’m currently working on <a href="https://github.com/vaanskii/auto-market">AutoMarket</a></td>
   </tr>
   <tr>
     <td>🌱</td>
