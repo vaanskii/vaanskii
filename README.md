@@ -1,4 +1,4 @@
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu vaanskii>/<seu vaanskii>/blob/output/github-contribution-grid-snake2.svg)
 
 <h1 align="center" >Hi 👋, I'm Giorgi Vanadze</h1>
 <h3 align="center" >Crafting Brilliant Interfaces with Django and Vue.js | Georgia-Based Developer</h3>
