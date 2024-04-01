@@ -122,13 +122,13 @@
 
 ---
 
-<p align="center" ><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=vaanskii&" alt="vaanskii" /></p>
+<p align="center">
+  <img width="423" src="https://github-readme-streak-stats.herokuapp.com/?user=vaanskii&theme=dark" alt="vaanskii" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=vaanskii&show_icons=true&theme=dark&locale=en" alt="vaanskii" />
+</p>
+
 
 <br/><br/>
 
-<p align="center" >&nbsp;<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=vaanskii&show_icons=true&locale=en" alt="vaanskii" /></p>
-
-<br/><br/>
-
-<p align="center" ><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaanskii&show_icons=true&locale=en&layout=compact" alt="vaanskii" /></p>
+<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaanskii&show_icons=true&theme=dark&locale=en&layout=compact" alt="vaanskii" /></p>
 
