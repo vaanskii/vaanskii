@@ -1,5 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Giorgi Vanadze</h1>
-<h3 align="center" >Crafting Brilliant Interfaces with Django and Vue.js | Georgia-Based Developer</h3>
+<h3 align="center">Crafting Dynamic Interfaces with Versatile Technologies | Georgia-Based Developer</h3>
 
 ---
 
