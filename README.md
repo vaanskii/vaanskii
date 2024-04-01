@@ -36,7 +36,7 @@
 
 ---
 
-<ul align="start">
+<ul align="center">
   <li>⚡ Fun fact <strong>Did you know that the first computer virus was created in 1983 by Fred Cohen and was named the 'Virus' experiment? It was designed to demonstrate that a program could infect other programs by attaching itself to them. Talk about a digital bug!</strong></li>
 </ul>
 
