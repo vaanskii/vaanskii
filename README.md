@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>🌱</td>
-    <td>I’m currently learning <strong>Postgresql</strong></td>
+    <td>I’m currently learning <strong>Python Data science and Algorithms</strong></td>
   </tr>
   <tr>
     <td>💬</td>
