@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>🌱</td>
-    <td>I’m currently learning <strong>TypeScript</strong></td>
+    <td>I’m currently learning <strong>React JS</strong></td>
   </tr>
   <tr>
     <td>💬</td>
