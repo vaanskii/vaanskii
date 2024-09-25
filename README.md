@@ -5,7 +5,7 @@
 ---  
 
 
-<p align="center">  <a href="https://github.com/vaanskii"> <img width="900" height="520" alt="coding" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952bvineal9jqxizz7hwk062ltv12ol6qv7gjik4u6o&ep=v1_gifs_search&rid=200w.gif&ct=g" > </a> 
+<p align="center">  <a href="https://github.com/vaanskii"> <img width="900" height="520" alt="coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" > </a> 
 </p> 
 
 <br/><br/>
