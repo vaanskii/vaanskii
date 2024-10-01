@@ -15,7 +15,7 @@
     <td>🔭</td>
      <td>I’m currently working on <a href="https://github.com/vaanskii/auto-market">Portfolio</a></td>
   </tr>
-  <tr>
+  <tr> 
     <td>🌱</td>
     <td>I’m currently learning <strong>C#</strong></td>
   </tr>
